@@ -1,0 +1,502 @@
+++ 01-01 12:07:56.075  2383  2732 D ImsManager: registrationProgressingWithRadioTech :: imsRadioTech=0
+++ 01-01 12:07:56.087  2383  2732 D ImsManager: registrationFeatureCapabilityChanged :: serviceClass=1
+++ 01-01 12:07:56.087  2383  2732 D ImsManager: registrationFeatureCapabilityChanged :: serviceClass=1
+++ //01-01 12:07:56.087  2383  2732 D ImsPhoneCallTracker: [ImsPhoneCallTracker] onFeatureCapabilityChanged: VoLTE:false ViLTE:false VoWiFi:false ViWiFi:false UTLTE:false UTWiFi:false SMSLTE:false SMSWiFi:false 
+++ 01-01 12:07:56.087  2383  2732 D ImsPhoneCallTracker: [ImsPhoneCallTracker] onFeatureCapabilityChanged: isVolteEnabled=false, isVideoCallEnabled=false, isVowifiEnabled=false, isUtEnabled=false, isSMSLteEnabled=false, isSMSWifiEnabled=false
+++ 05-17 10:39:11.872  2383  2732 D ImsManager: registrationConnectedWithRadioTech :: imsRadioTech=14
+++ 05-17 10:39:11.873  2383  2732 D ImsManager: registrationAssociatedUriChanged ::
+++ 05-17 10:39:11.875  2383  2732 D ImsManager: registrationFeatureCapabilityChanged :: serviceClass=1
+++ 05-17 10:39:11.875  2383  2732 D ImsManager: registrationFeatureCapabilityChanged :: serviceClass=1
+++ 05-17 10:39:11.875  2383  2732 D ImsPhoneCallTracker: [ImsPhoneCallTracker] onFeatureCapabilityChanged: VoLTE:false ViLTE:false VoWiFi:false ViWiFi:false UTLTE:false UTWiFi:false SMSLTE:false SMSWiFi:false 
+++ 05-17 10:39:11.875  2383  2732 D ImsPhoneCallTracker: [ImsPhoneCallTracker] onFeatureCapabilityChanged: isVolteEnabled=false, isVideoCallEnabled=false, isVowifiEnabled=false, isUtEnabled=false, isSMSLteEnabled=false, isSMSWifiEnabled=false
+++ 05-17 10:39:11.903  2383  2732 D ImsManager: registrationFeatureCapabilityChanged :: serviceClass=1
+++ 05-17 10:39:11.903  2383  2732 D ImsManager: registrationFeatureCapabilityChanged :: serviceClass=1
+++ //05-17 10:39:11.903  2383  2732 D ImsPhoneCallTracker: [ImsPhoneCallTracker] onFeatureCapabilityChanged: VoLTE:true ViLTE:false VoWiFi:false ViWiFi:false UTLTE:false UTWiFi:false SMSLTE:false SMSWiFi:false 
+++ //05-17 10:39:11.903  2383  2732 D ImsPhoneCallTracker: [ImsPhoneCallTracker] onFeatureCapabilityChanged: VoLTE:true ViLTE:false VoWiFi:false ViWiFi:false UTLTE:false UTWiFi:false SMSLTE:false SMSWiFi:false 
+++ 05-17 10:39:11.903  2383  2732 D ImsPhoneCallTracker: [ImsPhoneCallTracker] onFeatureCapabilityChanged: isVolteEnabled=true, isVideoCallEnabled=false, isVowifiEnabled=false, isUtEnabled=false, isSMSLteEnabled=false, isSMSWifiEnabled=false
+++ 05-17 10:39:12.017  2383  2732 D ImsManager: registrationFeatureCapabilityChanged :: serviceClass=1
+++ 05-17 10:39:12.017  2383  2732 D ImsManager: registrationFeatureCapabilityChanged :: serviceClass=1
+++ 05-17 10:39:12.017  2383  2732 D ImsPhoneCallTracker: [ImsPhoneCallTracker] onFeatureCapabilityChanged: VoLTE:true ViLTE:false VoWiFi:false ViWiFi:false UTLTE:false UTWiFi:false SMSLTE:true SMSWiFi:false 
+++ 05-17 10:39:12.017  2383  2732 D ImsPhoneCallTracker: [ImsPhoneCallTracker] onFeatureCapabilityChanged: isVolteEnabled=true, isVideoCallEnabled=false, isVowifiEnabled=false, isUtEnabled=false, isSMSLteEnabled=true, isSMSWifiEnabled=false
+++ 05-17 10:39:12.017  2383  2732 D ImsManager: registrationFeatureCapabilityChanged :: serviceClass=1
+++ 05-17 10:39:12.017  2383  2732 D ImsManager: registrationFeatureCapabilityChanged :: serviceClass=1
+++ 05-17 10:39:12.017  2383  2732 D ImsPhoneCallTracker: [ImsPhoneCallTracker] onFeatureCapabilityChanged: VoLTE:true ViLTE:false VoWiFi:false ViWiFi:false UTLTE:false UTWiFi:false SMSLTE:true SMSWiFi:false 
+++ 05-17 10:39:12.017  2383  2732 D ImsPhoneCallTracker: [ImsPhoneCallTracker] onFeatureCapabilityChanged: isVolteEnabled=true, isVideoCallEnabled=false, isVowifiEnabled=false, isUtEnabled=false, isSMSLteEnabled=true, isSMSWifiEnabled=false
+++ 05-17 10:40:23.585  2383  2383 D ImsManager: getConfigInterface(), mConfig= com.android.ims.ImsConfig@d198dd7
+++ 05-17 10:40:28.440  2383  2732 D ImsManager: registrationFeatureCapabilityChanged :: serviceClass=1
+++ 05-17 10:40:28.440  2383  2732 D ImsManager: registrationFeatureCapabilityChanged :: serviceClass=1
+++ 05-17 10:40:28.440  2383  2732 D ImsPhoneCallTracker: [ImsPhoneCallTracker] onFeatureCapabilityChanged: VoLTE:true ViLTE:false VoWiFi:false ViWiFi:false UTLTE:false UTWiFi:false SMSLTE:false SMSWiFi:true 
+++ 05-17 10:40:28.440  2383  2732 D ImsPhoneCallTracker: [ImsPhoneCallTracker] onFeatureCapabilityChanged: isVolteEnabled=true, isVideoCallEnabled=false, isVowifiEnabled=false, isUtEnabled=false, isSMSLteEnabled=false, isSMSWifiEnabled=true
+++ 05-17 10:40:28.442  2383  2732 D ImsManager: registrationFeatureCapabilityChanged :: serviceClass=1
+++ 05-17 10:40:28.442  2383  2732 D ImsManager: registrationFeatureCapabilityChanged :: serviceClass=1
+++ //05-17 10:40:28.442  2383  2732 D ImsPhoneCallTracker: [ImsPhoneCallTracker] onFeatureCapabilityChanged: VoLTE:false ViLTE:false VoWiFi:true ViWiFi:false UTLTE:false UTWiFi:false SMSLTE:false SMSWiFi:true 
+++ //05-17 10:40:28.442  2383  2732 D ImsPhoneCallTracker: [ImsPhoneCallTracker] onFeatureCapabilityChanged: VoLTE:false ViLTE:false VoWiFi:true ViWiFi:false UTLTE:false UTWiFi:false SMSLTE:false SMSWiFi:true 
+++ 05-17 10:40:28.442  2383  2732 D ImsPhoneCallTracker: [ImsPhoneCallTracker] onFeatureCapabilityChanged: isVolteEnabled=false, isVideoCallEnabled=false, isVowifiEnabled=true, isUtEnabled=false, isSMSLteEnabled=false, isSMSWifiEnabled=true
+++ 05-17 10:40:31.118  2383  2732 D ImsManager: registrationConnectedWithRadioTech :: imsRadioTech=18
+++ 05-17 10:40:31.121 10029 10029 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:40:31.121 10029 10029 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:40:31.125  2383  2732 D ImsManager: registrationFeatureCapabilityChanged :: serviceClass=1
+++ 05-17 10:40:31.125  2383  2732 D ImsManager: registrationFeatureCapabilityChanged :: serviceClass=1
+++ 05-17 10:40:31.125  2383  2732 D ImsPhoneCallTracker: [ImsPhoneCallTracker] onFeatureCapabilityChanged: VoLTE:false ViLTE:false VoWiFi:true ViWiFi:false UTLTE:false UTWiFi:false SMSLTE:false SMSWiFi:true 
+++ 05-17 10:40:31.125  2383  2732 D ImsPhoneCallTracker: [ImsPhoneCallTracker] onFeatureCapabilityChanged: isVolteEnabled=false, isVideoCallEnabled=false, isVowifiEnabled=true, isUtEnabled=false, isSMSLteEnabled=false, isSMSWifiEnabled=true
+++ 05-17 10:40:31.150 10029 10029 D ImsManager: [isVolteEnabledByPlatform] Volte Enable : false, support_volte : true
+++ 05-17 10:40:31.162 10029 10029 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:40:31.162 10029 10029 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:40:31.166 10029 10029 D ImsManager: [isVolteEnabledByPlatform] Volte Enable : false, support_volte : true
+++ 05-17 10:40:31.167 10029 10029 D ImsManager: Mccmnc :23433
+++ 05-17 10:40:31.167 10029 10029 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:40:37.123  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:40:37.123  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:40:37.127  4100  4100 D ImsManager: [isWfcEnabledByPlatform] htc sense qctEnabled: true, movialEnabled: false, isWfcEnalbefalse
+++ 05-17 10:40:37.167  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:40:37.167  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:40:37.171  4100  4100 D ImsManager: [isWfcEnabledByPlatform] htc sense qctEnabled: true, movialEnabled: false, isWfcEnalbefalse
+++ 05-17 10:40:37.172  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:40:37.172  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:40:37.184  4100  4100 D ImsManager: [isWfcEnabledByPlatform] htc sense qctEnabled: true, movialEnabled: false, isWfcEnalbefalse
+++ 05-17 10:40:37.295  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:40:37.295  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:40:37.300  4100  4100 D ImsManager: [isWfcEnabledByPlatform] htc sense qctEnabled: true, movialEnabled: false, isWfcEnalbefalse
+++ 05-17 10:40:37.300  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:40:37.300  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:40:37.303  4100  4100 D ImsManager: [isWfcEnabledByPlatform] htc sense qctEnabled: true, movialEnabled: false, isWfcEnalbefalse
+++ 05-17 10:40:37.452  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:40:37.452  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:40:37.454  4100  4100 D ImsManager: [isWfcEnabledByPlatform] htc sense qctEnabled: true, movialEnabled: false, isWfcEnalbefalse
+++ 05-17 10:40:39.068  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:40:39.068  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:40:39.071  4100  4100 D ImsManager: [isWfcEnabledByPlatform] htc sense qctEnabled: true, movialEnabled: false, isWfcEnalbefalse
+++ 05-17 10:40:39.071  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:40:39.071  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:40:39.073  4100  4100 D ImsManager: [isWfcEnabledByPlatform] htc sense qctEnabled: true, movialEnabled: false, isWfcEnalbefalse
+++ 05-17 10:40:39.098  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:40:39.098  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:40:39.104  4100  4100 D ImsManager: [isWfcEnabledByPlatform] htc sense qctEnabled: true, movialEnabled: false, isWfcEnalbefalse
+++ 05-17 10:40:39.183  2383  2383 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:40:39.183  2383  2383 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:40:39.186  2383  2383 D ImsManager: [isVolteEnabledByPlatform] Volte Enable : false, support_volte : true
+++ 05-17 10:40:39.187  2383  2383 D ImsManager: Mccmnc :23433
+++ 05-17 10:40:39.187  2383  2383 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:40:39.205  2383 11348 D ImsManager: getWfcMode - setting=2
+++ 05-17 10:40:39.801  2383 11348 D ImsManager: getWfcMode - setting=2
+++ 05-17 10:40:42.431  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:40:42.431  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:40:42.434  4100  4100 D ImsManager: [isWfcEnabledByPlatform] htc sense qctEnabled: true, movialEnabled: false, isWfcEnalbefalse
+++ 05-17 10:40:42.436  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:40:42.436  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:40:42.438  4100  4100 D ImsManager: [isWfcEnabledByPlatform] htc sense qctEnabled: true, movialEnabled: false, isWfcEnalbefalse
+++ 05-17 10:40:42.457  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:40:42.457  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:40:42.461  4100  4100 D ImsManager: [isWfcEnabledByPlatform] htc sense qctEnabled: true, movialEnabled: false, isWfcEnalbefalse
+++ 05-17 10:40:42.581  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:40:42.581  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:40:42.584  4100  4100 D ImsManager: [isWfcEnabledByPlatform] htc sense qctEnabled: true, movialEnabled: false, isWfcEnalbefalse
+++ 05-17 10:40:42.732  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:40:42.732  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:40:42.735  4100  4100 D ImsManager: [isWfcEnabledByPlatform] htc sense qctEnabled: true, movialEnabled: false, isWfcEnalbefalse
+++ 05-17 10:40:43.567  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:40:43.567  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:40:43.571  4100  4100 D ImsManager: [isWfcEnabledByPlatform] htc sense qctEnabled: true, movialEnabled: false, isWfcEnalbefalse
+++ 05-17 10:40:43.572  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:40:43.572  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:40:43.574  4100  4100 D ImsManager: [isWfcEnabledByPlatform] htc sense qctEnabled: true, movialEnabled: false, isWfcEnalbefalse
+++ 05-17 10:40:43.857  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:40:43.857  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:40:43.863  4100  4100 D ImsManager: [isWfcEnabledByPlatform] htc sense qctEnabled: true, movialEnabled: false, isWfcEnalbefalse
+++ 05-17 10:40:43.864  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:40:43.864  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:40:43.867  4100  4100 D ImsManager: [isWfcEnabledByPlatform] htc sense qctEnabled: true, movialEnabled: false, isWfcEnalbefalse
+++ 05-17 10:40:44.197  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:40:44.197  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:40:44.201  4100  4100 D ImsManager: [isWfcEnabledByPlatform] htc sense qctEnabled: true, movialEnabled: false, isWfcEnalbefalse
+++ 05-17 10:40:44.202  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:40:44.202  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:40:44.204  4100  4100 D ImsManager: [isWfcEnabledByPlatform] htc sense qctEnabled: true, movialEnabled: false, isWfcEnalbefalse
+++ 05-17 10:40:47.086  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:40:47.086  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:40:47.091  4100  4100 D ImsManager: [isWfcEnabledByPlatform] htc sense qctEnabled: true, movialEnabled: false, isWfcEnalbefalse
+++ 05-17 10:40:47.143  2695  2695 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:40:47.143  2695  2695 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:40:47.150  2695  2695 D ImsManager: [isVolteEnabledByPlatform] Volte Enable : false, support_volte : true
+++ 05-17 10:40:47.217  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:40:47.217  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:40:47.229  4100  4100 D ImsManager: [isWfcEnabledByPlatform] htc sense qctEnabled: true, movialEnabled: false, isWfcEnalbefalse
+++ 05-17 10:40:47.230  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:40:47.230  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:40:47.234  4100  4100 D ImsManager: [isWfcEnabledByPlatform] htc sense qctEnabled: true, movialEnabled: false, isWfcEnalbefalse
+++ 05-17 10:40:47.269  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:40:47.269  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:40:47.287  4100  4100 D ImsManager: [isWfcEnabledByPlatform] htc sense qctEnabled: true, movialEnabled: false, isWfcEnalbefalse
+++ 05-17 10:40:47.423  2383  2383 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:40:47.423  2383  2383 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:40:47.426  2383  2383 D ImsManager: [isVolteEnabledByPlatform] Volte Enable : false, support_volte : true
+++ 05-17 10:40:47.432  2383  2383 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:40:47.432  2383  2383 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:40:47.440  2383  2383 D ImsManager: [isVolteEnabledByPlatform] Volte Enable : false, support_volte : true
+++ 05-17 10:40:47.442  2383  2383 D ImsManager: Mccmnc :23433
+++ 05-17 10:40:47.442  2383  2383 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:40:47.446  2383  2383 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:40:47.446  2383  2383 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:40:47.454  2383  2383 D ImsManager: [isWfcEnabledByPlatform] htc sense qctEnabled: true, movialEnabled: false, isWfcEnalbefalse
+++ //05-17 10:40:47.459  2383  2383 D Phone   : isVolteEnabledByPlatform: true, isEnhanced4gLteModeSettingEnabledByUser:true, isWfcEnabledByPlatform: true, isWfcSettingsEnabledByUser: false
+++ 05-17 10:40:47.459  2383  2383 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:40:47.459  2383  2383 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:40:47.468  2383  2383 D ImsManager: [isVolteEnabledByPlatform] Volte Enable : false, support_volte : true
+++ 05-17 10:40:47.469  2383  2383 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:40:47.469  2383  2383 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:40:47.473  2383  2383 D ImsManager: [isVolteEnabledByPlatform] Volte Enable : false, support_volte : true
+++ 05-17 10:40:47.475  2383  2383 D ImsManager: Mccmnc :23433
+++ 05-17 10:40:47.475  2383  2383 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:40:47.533  2383  2383 D ImsManager: makeCall :: serviceId=1, profile={ serviceType=1, callType=2, restrictCause=0, mediaProfile={ audioQuality=0, audioDirection=3, videoQuality=0, videoDirection=-1 } }
+++ //05-17 10:40:47.589  2383  2383 I QImsService: ImsSenderRxr : [0020]> DIAL[SUB0]
+++ //05-17 10:40:47.625  2383  2532 D RILJ    : Oem ID in RIL_UNSOL_OEM_HOOK_RAW is QOEMHOOK
+++ 05-17 10:40:48.113  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:40:48.113  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:40:48.116  4100  4100 D ImsManager: [isWfcEnabledByPlatform] htc sense qctEnabled: true, movialEnabled: false, isWfcEnalbefalse
+++ 05-17 10:41:01.197  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:01.197  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:01.200  4100  4100 D ImsManager: [isWfcEnabledByPlatform] htc sense qctEnabled: true, movialEnabled: false, isWfcEnalbefalse
+++ 05-17 10:41:01.314  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:01.314  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:01.316  4100  4100 D ImsManager: [isWfcEnabledByPlatform] htc sense qctEnabled: true, movialEnabled: false, isWfcEnalbefalse
+++ 05-17 10:41:01.324  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:01.324  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:01.330  4100  4100 D ImsManager: [isWfcEnabledByPlatform] htc sense qctEnabled: true, movialEnabled: false, isWfcEnalbefalse
+++ 05-17 10:41:01.380  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:01.380  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:01.390  4100  4100 D ImsManager: [isWfcEnabledByPlatform] htc sense qctEnabled: true, movialEnabled: false, isWfcEnalbefalse
+++ 05-17 10:41:01.450  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:01.450  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:01.457  4100  4100 D ImsManager: [isWfcEnabledByPlatform] htc sense qctEnabled: true, movialEnabled: false, isWfcEnalbefalse
+++ 05-17 10:41:01.618  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:01.618  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:01.622  4100  4100 D ImsManager: [isWfcEnabledByPlatform] htc sense qctEnabled: true, movialEnabled: false, isWfcEnalbefalse
+++ 05-17 10:41:05.432  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:05.432  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:05.435  4100  4100 D ImsManager: [isWfcEnabledByPlatform] htc sense qctEnabled: true, movialEnabled: false, isWfcEnalbefalse
+++ 05-17 10:41:05.435  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:05.435  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:05.436  4100  4100 D ImsManager: [isWfcEnabledByPlatform] htc sense qctEnabled: true, movialEnabled: false, isWfcEnalbefalse
+++ 05-17 10:41:05.447  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:05.447  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:05.454  4100  4100 D ImsManager: [isWfcEnabledByPlatform] htc sense qctEnabled: true, movialEnabled: false, isWfcEnalbefalse
+++ 05-17 10:41:05.475  2383  2383 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:05.475  2383  2383 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:05.475  2383  2383 D ImsManager: [isVolteEnabledByPlatform] Volte Enable : false, support_volte : true
+++ 05-17 10:41:05.476  2383  2383 D ImsManager: Mccmnc :23433
+++ 05-17 10:41:05.476  2383  2383 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:05.485  2383 11570 D ImsManager: getWfcMode - setting=2
+++ 05-17 10:41:06.224  2383 11570 D ImsManager: getWfcMode - setting=2
+++ 05-17 10:41:10.039  2383  2383 D ImsManager: setWfcMode - setting=2
+++ //05-17 10:41:10.040  2383  2383 D ImsManager: setWfcSetting() : enabled true
+++ //05-17 10:41:10.040  2383  2383 D ImsManager: setWfcSetting() : enabled true
+++ 05-17 10:41:10.040  2383 11670 D ImsManager: getConfigInterface(), mConfig= com.android.ims.ImsConfig@d198dd7
+++ 05-17 10:41:10.042  2383  2383 D ImsManager: getConfigInterface(), mConfig= com.android.ims.ImsConfig@d198dd7
+++ 05-17 10:41:10.043  2383  2383 D ImsManager: setWfcSettingInternal() : turnOnIms
+++ 05-17 10:41:10.045  2383  2383 D ImsManager: getWfcMode - setting=2
+++ 05-17 10:41:10.046  2383 11672 D ImsManager: getConfigInterface(), mConfig= com.android.ims.ImsConfig@d198dd7
+++ 05-17 10:41:10.059  2383 11670 D ImsManager: setWfcModeInternal - wfcMode= 2
+++ 05-17 10:41:10.072  2383 11672 D ImsManager: setWfcModeInternal - wfcMode= 2
+++ 05-17 10:41:10.081  2383  2383 D ImsManager: onProvisionedValueChanged: item=27 val=2
+++ 05-17 10:41:10.093  2383  2383 D ImsManager: onProvisionedValueChanged: item=27 val=2
+++ 05-17 10:41:10.119  2383  2383 D ImsManager: getConfigInterface(), mConfig= com.android.ims.ImsConfig@d198dd7
+++ 05-17 10:41:15.222  2383  2383 D ImsManager: setWfcMode - setting=2
+++ //05-17 10:41:15.224  2383  2383 D ImsManager: setWfcSetting() : enabled false
+++ //05-17 10:41:15.224  2383  2383 D ImsManager: setWfcSetting() : enabled false
+++ 05-17 10:41:15.224  2383 11801 D ImsManager: getConfigInterface(), mConfig= com.android.ims.ImsConfig@d198dd7
+++ 05-17 10:41:15.227  2383  2383 D ImsManager: getConfigInterface(), mConfig= com.android.ims.ImsConfig@d198dd7
+++ 05-17 10:41:15.229  2383  2383 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:15.229  2383  2383 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:15.229  2383  2383 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:15.229  2383  2383 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:15.231  2383  2383 D ImsManager: [isVolteEnabledByPlatform] Volte Enable : false, support_volte : true
+++ 05-17 10:41:15.232  2383  2383 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:15.232  2383  2383 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:15.234  2383  2383 D ImsManager: [isVolteEnabledByPlatform] Volte Enable : false, support_volte : true
+++ 05-17 10:41:15.234  2383  2383 D ImsManager: Mccmnc :23433
+++ 05-17 10:41:15.234  2383  2383 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:15.238  2383 11801 D ImsManager: setWfcModeInternal - wfcMode= 2
+++ 05-17 10:41:15.237  2383 11803 D ImsManager: getConfigInterface(), mConfig= com.android.ims.ImsConfig@d198dd7
+++ 05-17 10:41:15.263  2383 11803 D ImsManager: setWfcModeInternal - wfcMode= 1
+++ 05-17 10:41:15.276  2383  2383 D ImsManager: onProvisionedValueChanged: item=27 val=2
+++ 05-17 10:41:15.288  2383  2383 D ImsManager: onProvisionedValueChanged: item=27 val=1
+++ 05-17 10:41:15.326  2383  2383 D ImsManager: getConfigInterface(), mConfig= com.android.ims.ImsConfig@d198dd7
+++ 05-17 10:41:16.053  2383  2732 D ImsManager: registrationFeatureCapabilityChanged :: serviceClass=1
+++ 05-17 10:41:16.053  2383  2732 D ImsManager: registrationFeatureCapabilityChanged :: serviceClass=1
+++ 05-17 10:41:16.053  2383  2732 D ImsPhoneCallTracker: [ImsPhoneCallTracker] onFeatureCapabilityChanged: VoLTE:false ViLTE:false VoWiFi:true ViWiFi:false UTLTE:false UTWiFi:false SMSLTE:true SMSWiFi:false 
+++ 05-17 10:41:16.053  2383  2732 D ImsPhoneCallTracker: [ImsPhoneCallTracker] onFeatureCapabilityChanged: isVolteEnabled=false, isVideoCallEnabled=false, isVowifiEnabled=true, isUtEnabled=false, isSMSLteEnabled=true, isSMSWifiEnabled=false
+++ 05-17 10:41:16.057  2383  2732 D ImsManager: registrationFeatureCapabilityChanged :: serviceClass=1
+++ 05-17 10:41:16.057  2383  2732 D ImsManager: registrationFeatureCapabilityChanged :: serviceClass=1
+++ //05-17 10:41:16.057  2383  2732 D ImsPhoneCallTracker: [ImsPhoneCallTracker] onFeatureCapabilityChanged: VoLTE:true ViLTE:false VoWiFi:false ViWiFi:false UTLTE:false UTWiFi:false SMSLTE:true SMSWiFi:false 
+++ //05-17 10:41:16.057  2383  2732 D ImsPhoneCallTracker: [ImsPhoneCallTracker] onFeatureCapabilityChanged: VoLTE:true ViLTE:false VoWiFi:false ViWiFi:false UTLTE:false UTWiFi:false SMSLTE:true SMSWiFi:false 
+++ 05-17 10:41:16.057  2383  2732 D ImsPhoneCallTracker: [ImsPhoneCallTracker] onFeatureCapabilityChanged: isVolteEnabled=true, isVideoCallEnabled=false, isVowifiEnabled=false, isUtEnabled=false, isSMSLteEnabled=true, isSMSWifiEnabled=false
+++ 05-17 10:41:16.328  2383  2732 D ImsManager: registrationConnectedWithRadioTech :: imsRadioTech=14
+++ 05-17 10:41:16.341  2383  2732 D ImsManager: registrationFeatureCapabilityChanged :: serviceClass=1
+++ 05-17 10:41:16.341  2383  2732 D ImsManager: registrationFeatureCapabilityChanged :: serviceClass=1
+++ 05-17 10:41:16.341  2383  2732 D ImsPhoneCallTracker: [ImsPhoneCallTracker] onFeatureCapabilityChanged: VoLTE:true ViLTE:false VoWiFi:false ViWiFi:false UTLTE:false UTWiFi:false SMSLTE:true SMSWiFi:false 
+++ 05-17 10:41:16.341  2383  2732 D ImsPhoneCallTracker: [ImsPhoneCallTracker] onFeatureCapabilityChanged: isVolteEnabled=true, isVideoCallEnabled=false, isVowifiEnabled=false, isUtEnabled=false, isSMSLteEnabled=true, isSMSWifiEnabled=false
+++ 05-17 10:41:19.525  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:19.525  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:19.528  4100  4100 D ImsManager: [isWfcEnabledByPlatform] htc sense qctEnabled: true, movialEnabled: false, isWfcEnalbefalse
+++ 05-17 10:41:19.529  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:19.529  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:19.533  4100  4100 D ImsManager: [isWfcEnabledByPlatform] htc sense qctEnabled: true, movialEnabled: false, isWfcEnalbefalse
+++ 05-17 10:41:19.545  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:19.545  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:19.548  4100  4100 D ImsManager: [isWfcEnabledByPlatform] htc sense qctEnabled: true, movialEnabled: false, isWfcEnalbefalse
+++ 05-17 10:41:19.639  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:19.639  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:19.642  4100  4100 D ImsManager: [isWfcEnabledByPlatform] htc sense qctEnabled: true, movialEnabled: false, isWfcEnalbefalse
+++ 05-17 10:41:19.843  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:19.843  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:19.848  4100  4100 D ImsManager: [isWfcEnabledByPlatform] htc sense qctEnabled: true, movialEnabled: false, isWfcEnalbefalse
+++ 05-17 10:41:20.601  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:20.601  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:20.604  4100  4100 D ImsManager: [isWfcEnabledByPlatform] htc sense qctEnabled: true, movialEnabled: false, isWfcEnalbefalse
+++ 05-17 10:41:20.609  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:20.609  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:20.612  4100  4100 D ImsManager: [isWfcEnabledByPlatform] htc sense qctEnabled: true, movialEnabled: false, isWfcEnalbefalse
+++ 05-17 10:41:20.831  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:20.831  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:20.834  4100  4100 D ImsManager: [isWfcEnabledByPlatform] htc sense qctEnabled: true, movialEnabled: false, isWfcEnalbefalse
+++ 05-17 10:41:20.838  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:20.838  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:20.840  4100  4100 D ImsManager: [isWfcEnabledByPlatform] htc sense qctEnabled: true, movialEnabled: false, isWfcEnalbefalse
+++ 05-17 10:41:21.078  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:21.078  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:21.081  4100  4100 D ImsManager: [isWfcEnabledByPlatform] htc sense qctEnabled: true, movialEnabled: false, isWfcEnalbefalse
+++ 05-17 10:41:21.087  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:21.087  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:21.091  4100  4100 D ImsManager: [isWfcEnabledByPlatform] htc sense qctEnabled: true, movialEnabled: false, isWfcEnalbefalse
+++ 05-17 10:41:28.070  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:28.070  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:28.075  4100  4100 D ImsManager: [isWfcEnabledByPlatform] htc sense qctEnabled: true, movialEnabled: false, isWfcEnalbefalse
+++ 05-17 10:41:28.103  2695  2695 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:28.103  2695  2695 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:28.112  2695  2695 D ImsManager: [isVolteEnabledByPlatform] Volte Enable : false, support_volte : true
+++ 05-17 10:41:28.157  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:28.157  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:28.160  4100  4100 D ImsManager: [isWfcEnabledByPlatform] htc sense qctEnabled: true, movialEnabled: false, isWfcEnalbefalse
+++ 05-17 10:41:28.161  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:28.161  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:28.163  4100  4100 D ImsManager: [isWfcEnabledByPlatform] htc sense qctEnabled: true, movialEnabled: false, isWfcEnalbefalse
+++ 05-17 10:41:28.201  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:28.201  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:28.213  4100  4100 D ImsManager: [isWfcEnabledByPlatform] htc sense qctEnabled: true, movialEnabled: false, isWfcEnalbefalse
+++ 05-17 10:41:28.317  2383  2383 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:28.317  2383  2383 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:28.320  2383  2383 D ImsManager: [isVolteEnabledByPlatform] Volte Enable : false, support_volte : true
+++ 05-17 10:41:28.321  2383  2383 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:28.321  2383  2383 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:28.322  2383  2383 D ImsManager: [isVolteEnabledByPlatform] Volte Enable : false, support_volte : true
+++ 05-17 10:41:28.323  2383  2383 D ImsManager: Mccmnc :23433
+++ 05-17 10:41:28.323  2383  2383 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:28.324  2383  2383 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:28.324  2383  2383 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:28.324  2383  2383 D ImsManager: [isWfcEnabledByPlatform] htc sense qctEnabled: true, movialEnabled: false, isWfcEnalbefalse
+++ 05-17 10:41:28.325  2383  2383 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:28.325  2383  2383 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:28.326  2383  2383 D ImsManager: [isVolteEnabledByPlatform] Volte Enable : false, support_volte : true
+++ 05-17 10:41:28.327  2383  2383 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:28.327  2383  2383 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:28.329  2383  2383 D ImsManager: [isVolteEnabledByPlatform] Volte Enable : false, support_volte : true
+++ 05-17 10:41:28.329  2383  2383 D ImsManager: Mccmnc :23433
+++ 05-17 10:41:28.329  2383  2383 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:28.343  2383  2383 D ImsManager: makeCall :: serviceId=1, profile={ serviceType=1, callType=2, restrictCause=0, mediaProfile={ audioQuality=0, audioDirection=3, videoQuality=0, videoDirection=-1 } }
+++ 05-17 10:41:29.097  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:29.097  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:29.100  4100  4100 D ImsManager: [isWfcEnabledByPlatform] htc sense qctEnabled: true, movialEnabled: false, isWfcEnalbefalse
+++ 05-17 10:41:38.024  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:38.024  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:38.031  4100  4100 D ImsManager: [isWfcEnabledByPlatform] htc sense qctEnabled: true, movialEnabled: false, isWfcEnalbefalse
+++ 05-17 10:41:38.174  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:38.174  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:38.180  4100  4100 D ImsManager: [isWfcEnabledByPlatform] htc sense qctEnabled: true, movialEnabled: false, isWfcEnalbefalse
+++ 05-17 10:41:38.191  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:38.191  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:38.194  4100  4100 D ImsManager: [isWfcEnabledByPlatform] htc sense qctEnabled: true, movialEnabled: false, isWfcEnalbefalse
+++ 05-17 10:41:38.220  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:38.220  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:38.221  4100  4100 D ImsManager: [isWfcEnabledByPlatform] htc sense qctEnabled: true, movialEnabled: false, isWfcEnalbefalse
+++ 05-17 10:41:38.286  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:38.286  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:38.294  4100  4100 D ImsManager: [isWfcEnabledByPlatform] htc sense qctEnabled: true, movialEnabled: false, isWfcEnalbefalse
+++ 05-17 10:41:38.489  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:38.489  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:38.498  4100  4100 D ImsManager: [isWfcEnabledByPlatform] htc sense qctEnabled: true, movialEnabled: false, isWfcEnalbefalse
+++ 05-17 10:41:39.138  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:39.138  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:39.182  4100  4100 D ImsManager: [isWfcEnabledByPlatform] htc sense qctEnabled: true, movialEnabled: false, isWfcEnalbefalse
+++ 05-17 10:41:39.182  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:39.182  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:39.186  4100  4100 D ImsManager: [isWfcEnabledByPlatform] htc sense qctEnabled: true, movialEnabled: false, isWfcEnalbefalse
+++ 05-17 10:41:39.226  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:39.226  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:39.231  4100  4100 D ImsManager: [isWfcEnabledByPlatform] htc sense qctEnabled: true, movialEnabled: false, isWfcEnalbefalse
+++ 05-17 10:41:39.867  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:39.868  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:39.869  4100  4100 D ImsManager: [isWfcEnabledByPlatform] htc sense qctEnabled: true, movialEnabled: false, isWfcEnalbefalse
+++ 05-17 10:41:39.870  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:39.870  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:39.871  4100  4100 D ImsManager: [isWfcEnabledByPlatform] htc sense qctEnabled: true, movialEnabled: false, isWfcEnalbefalse
+++ 05-17 10:41:39.880  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:39.880  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:39.883  4100  4100 D ImsManager: [isWfcEnabledByPlatform] htc sense qctEnabled: true, movialEnabled: false, isWfcEnalbefalse
+++ 05-17 10:41:39.976  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:39.976  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:39.977  4100  4100 D ImsManager: [isWfcEnabledByPlatform] htc sense qctEnabled: true, movialEnabled: false, isWfcEnalbefalse
+++ 05-17 10:41:40.172  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:40.172  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:40.174  4100  4100 D ImsManager: [isWfcEnabledByPlatform] htc sense qctEnabled: true, movialEnabled: false, isWfcEnalbefalse
+++ 05-17 10:41:41.147  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:41.147  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:41.150  4100  4100 D ImsManager: [isWfcEnabledByPlatform] htc sense qctEnabled: true, movialEnabled: false, isWfcEnalbefalse
+++ 05-17 10:41:41.151  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:41.151  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:41.152  4100  4100 D ImsManager: [isWfcEnabledByPlatform] htc sense qctEnabled: true, movialEnabled: false, isWfcEnalbefalse
+++ 05-17 10:41:41.162  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:41.162  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:41.170  4100  4100 D ImsManager: [isWfcEnabledByPlatform] htc sense qctEnabled: true, movialEnabled: false, isWfcEnalbefalse
+++ 05-17 10:41:41.198  2383  2383 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:41.198  2383  2383 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:41.198  2383  2383 D ImsManager: [isVolteEnabledByPlatform] Volte Enable : false, support_volte : true
+++ 05-17 10:41:41.199  2383  2383 D ImsManager: Mccmnc :23433
+++ 05-17 10:41:41.199  2383  2383 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:41.206  2383 11958 D ImsManager: getWfcMode - setting=1
+++ 05-17 10:41:41.955  2383 11958 D ImsManager: getWfcMode - setting=1
+++ 05-17 10:41:42.592  2383  2383 D ImsManager: setWfcMode - setting=2
+++ //05-17 10:41:42.594  2383  2383 D ImsManager: setWfcSetting() : enabled true
+++ //05-17 10:41:42.594  2383  2383 D ImsManager: setWfcSetting() : enabled true
+++ 05-17 10:41:42.594  2383 11969 D ImsManager: getConfigInterface(), mConfig= com.android.ims.ImsConfig@d198dd7
+++ 05-17 10:41:42.596  2383  2383 D ImsManager: getConfigInterface(), mConfig= com.android.ims.ImsConfig@d198dd7
+++ 05-17 10:41:42.598  2383  2383 D ImsManager: setWfcSettingInternal() : turnOnIms
+++ 05-17 10:41:42.599  2383  2383 D ImsManager: getWfcMode - setting=2
+++ 05-17 10:41:42.600  2383 11972 D ImsManager: getConfigInterface(), mConfig= com.android.ims.ImsConfig@d198dd7
+++ 05-17 10:41:42.610  2383 11969 D ImsManager: setWfcModeInternal - wfcMode= 2
+++ 05-17 10:41:42.635  2383 11972 D ImsManager: setWfcModeInternal - wfcMode= 2
+++ 05-17 10:41:42.642  2383  2383 D ImsManager: onProvisionedValueChanged: item=27 val=2
+++ 05-17 10:41:42.683 10029 10029 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:42.683 10029 10029 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:42.686 10029 10029 D ImsManager: [isVolteEnabledByPlatform] Volte Enable : false, support_volte : true
+++ 05-17 10:41:42.688 10029 10029 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:42.688 10029 10029 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:42.691 10029 10029 D ImsManager: [isVolteEnabledByPlatform] Volte Enable : false, support_volte : true
+++ 05-17 10:41:42.692 10029 10029 D ImsManager: Mccmnc :23433
+++ 05-17 10:41:42.692 10029 10029 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:42.696  2383  2383 D ImsManager: onProvisionedValueChanged: item=27 val=2
+++ 05-17 10:41:42.697  2383  2383 D ImsManager: getConfigInterface(), mConfig= com.android.ims.ImsConfig@d198dd7
+++ 05-17 10:41:42.724  2383  2383 D ImsManager: getConfigInterface(), mConfig= com.android.ims.ImsConfig@d198dd7
+++ 05-17 10:41:46.706  2383  2732 D ImsManager: registrationFeatureCapabilityChanged :: serviceClass=1
+++ 05-17 10:41:46.706  2383  2732 D ImsManager: registrationFeatureCapabilityChanged :: serviceClass=1
+++ 05-17 10:41:46.706  2383  2732 D ImsPhoneCallTracker: [ImsPhoneCallTracker] onFeatureCapabilityChanged: VoLTE:true ViLTE:false VoWiFi:false ViWiFi:false UTLTE:false UTWiFi:false SMSLTE:false SMSWiFi:true 
+++ 05-17 10:41:46.706  2383  2732 D ImsPhoneCallTracker: [ImsPhoneCallTracker] onFeatureCapabilityChanged: isVolteEnabled=true, isVideoCallEnabled=false, isVowifiEnabled=false, isUtEnabled=false, isSMSLteEnabled=false, isSMSWifiEnabled=true
+++ 05-17 10:41:46.709  2383  2732 D ImsManager: registrationFeatureCapabilityChanged :: serviceClass=1
+++ 05-17 10:41:46.709  2383  2732 D ImsManager: registrationFeatureCapabilityChanged :: serviceClass=1
+++ //05-17 10:41:46.709  2383  2732 D ImsPhoneCallTracker: [ImsPhoneCallTracker] onFeatureCapabilityChanged: VoLTE:false ViLTE:false VoWiFi:true ViWiFi:false UTLTE:false UTWiFi:false SMSLTE:false SMSWiFi:true 
+++ //05-17 10:41:46.709  2383  2732 D ImsPhoneCallTracker: [ImsPhoneCallTracker] onFeatureCapabilityChanged: VoLTE:false ViLTE:false VoWiFi:true ViWiFi:false UTLTE:false UTWiFi:false SMSLTE:false SMSWiFi:true 
+++ 05-17 10:41:46.709  2383  2732 D ImsPhoneCallTracker: [ImsPhoneCallTracker] onFeatureCapabilityChanged: isVolteEnabled=false, isVideoCallEnabled=false, isVowifiEnabled=true, isUtEnabled=false, isSMSLteEnabled=false, isSMSWifiEnabled=true
+++ 05-17 10:41:48.341  2383  2732 D ImsManager: registrationConnectedWithRadioTech :: imsRadioTech=18
+++ 05-17 10:41:48.343 10029 10029 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:48.344 10029 10029 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:48.348  2383  2732 D ImsManager: registrationFeatureCapabilityChanged :: serviceClass=1
+++ 05-17 10:41:48.348  2383  2732 D ImsManager: registrationFeatureCapabilityChanged :: serviceClass=1
+++ 05-17 10:41:48.348  2383  2732 D ImsPhoneCallTracker: [ImsPhoneCallTracker] onFeatureCapabilityChanged: VoLTE:false ViLTE:false VoWiFi:true ViWiFi:false UTLTE:false UTWiFi:false SMSLTE:false SMSWiFi:true 
+++ 05-17 10:41:48.349  2383  2732 D ImsPhoneCallTracker: [ImsPhoneCallTracker] onFeatureCapabilityChanged: isVolteEnabled=false, isVideoCallEnabled=false, isVowifiEnabled=true, isUtEnabled=false, isSMSLteEnabled=false, isSMSWifiEnabled=true
+++ 05-17 10:41:48.357 10029 10029 D ImsManager: [isVolteEnabledByPlatform] Volte Enable : false, support_volte : true
+++ 05-17 10:41:48.362 10029 10029 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:48.362 10029 10029 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:48.365 10029 10029 D ImsManager: [isVolteEnabledByPlatform] Volte Enable : false, support_volte : true
+++ 05-17 10:41:48.366 10029 10029 D ImsManager: Mccmnc :23433
+++ 05-17 10:41:48.366 10029 10029 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:54.367  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:54.367  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:54.372  4100  4100 D ImsManager: [isWfcEnabledByPlatform] htc sense qctEnabled: true, movialEnabled: false, isWfcEnalbefalse
+++ 05-17 10:41:54.374  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:54.374  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:54.377  4100  4100 D ImsManager: [isWfcEnabledByPlatform] htc sense qctEnabled: true, movialEnabled: false, isWfcEnalbefalse
+++ 05-17 10:41:54.398  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:54.398  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:54.400  4100  4100 D ImsManager: [isWfcEnabledByPlatform] htc sense qctEnabled: true, movialEnabled: false, isWfcEnalbefalse
+++ 05-17 10:41:54.498  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:54.498  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:54.500  4100  4100 D ImsManager: [isWfcEnabledByPlatform] htc sense qctEnabled: true, movialEnabled: false, isWfcEnalbefalse
+++ 05-17 10:41:54.678  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:54.678  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:54.681  4100  4100 D ImsManager: [isWfcEnabledByPlatform] htc sense qctEnabled: true, movialEnabled: false, isWfcEnalbefalse
+++ 05-17 10:41:55.297  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:55.297  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:55.299  4100  4100 D ImsManager: [isWfcEnabledByPlatform] htc sense qctEnabled: true, movialEnabled: false, isWfcEnalbefalse
+++ 05-17 10:41:55.305  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:55.305  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:55.309  4100  4100 D ImsManager: [isWfcEnabledByPlatform] htc sense qctEnabled: true, movialEnabled: false, isWfcEnalbefalse
+++ 05-17 10:41:55.585  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:55.585  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:55.590  4100  4100 D ImsManager: [isWfcEnabledByPlatform] htc sense qctEnabled: true, movialEnabled: false, isWfcEnalbefalse
+++ 05-17 10:41:55.596  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:55.596  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:55.600  4100  4100 D ImsManager: [isWfcEnabledByPlatform] htc sense qctEnabled: true, movialEnabled: false, isWfcEnalbefalse
+++ 05-17 10:41:55.901  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:55.901  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:55.906  4100  4100 D ImsManager: [isWfcEnabledByPlatform] htc sense qctEnabled: true, movialEnabled: false, isWfcEnalbefalse
+++ 05-17 10:41:55.913  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:55.913  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:55.917  4100  4100 D ImsManager: [isWfcEnabledByPlatform] htc sense qctEnabled: true, movialEnabled: false, isWfcEnalbefalse
+++ 05-17 10:41:59.225  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:59.225  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:59.229  4100  4100 D ImsManager: [isWfcEnabledByPlatform] htc sense qctEnabled: true, movialEnabled: false, isWfcEnalbefalse
+++ 05-17 10:41:59.259  2695  2695 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:59.259  2695  2695 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:59.267  2695  2695 D ImsManager: [isVolteEnabledByPlatform] Volte Enable : false, support_volte : true
+++ 05-17 10:41:59.303  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:59.303  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:59.308  4100  4100 D ImsManager: [isWfcEnabledByPlatform] htc sense qctEnabled: true, movialEnabled: false, isWfcEnalbefalse
+++ 05-17 10:41:59.308  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:59.308  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:59.309  4100  4100 D ImsManager: [isWfcEnabledByPlatform] htc sense qctEnabled: true, movialEnabled: false, isWfcEnalbefalse
+++ 05-17 10:41:59.482  2383  2383 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:59.482  2383  2383 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:59.485  2383  2383 D ImsManager: [isVolteEnabledByPlatform] Volte Enable : false, support_volte : true
+++ 05-17 10:41:59.485  2383  2383 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:59.485  2383  2383 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:59.487  2383  2383 D ImsManager: [isVolteEnabledByPlatform] Volte Enable : false, support_volte : true
+++ 05-17 10:41:59.488  2383  2383 D ImsManager: Mccmnc :23433
+++ 05-17 10:41:59.488  2383  2383 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:59.489  2383  2383 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:59.489  2383  2383 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:59.491  2383  2383 D ImsManager: [isWfcEnabledByPlatform] htc sense qctEnabled: true, movialEnabled: false, isWfcEnalbefalse
+++ 05-17 10:41:59.492  2383  2383 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:59.492  2383  2383 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:59.494  2383  2383 D ImsManager: [isVolteEnabledByPlatform] Volte Enable : false, support_volte : true
+++ 05-17 10:41:59.495  2383  2383 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:59.495  2383  2383 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:59.497  2383  2383 D ImsManager: [isVolteEnabledByPlatform] Volte Enable : false, support_volte : true
+++ 05-17 10:41:59.498  2383  2383 D ImsManager: Mccmnc :23433
+++ 05-17 10:41:59.498  2383  2383 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:41:59.515  2383  2383 D ImsManager: makeCall :: serviceId=1, profile={ serviceType=1, callType=2, restrictCause=0, mediaProfile={ audioQuality=0, audioDirection=3, videoQuality=0, videoDirection=-1 } }
+++ 05-17 10:42:00.253  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:42:00.253  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:42:00.256  4100  4100 D ImsManager: [isWfcEnabledByPlatform] htc sense qctEnabled: true, movialEnabled: false, isWfcEnalbefalse
+++ 05-17 10:42:08.248  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:42:08.249  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:42:08.252  4100  4100 D ImsManager: [isWfcEnabledByPlatform] htc sense qctEnabled: true, movialEnabled: false, isWfcEnalbefalse
+++ 05-17 10:42:08.408  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:42:08.409  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:42:08.416  4100  4100 D ImsManager: [isWfcEnabledByPlatform] htc sense qctEnabled: true, movialEnabled: false, isWfcEnalbefalse
+++ 05-17 10:42:08.417  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:42:08.417  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:42:08.425  4100  4100 D ImsManager: [isWfcEnabledByPlatform] htc sense qctEnabled: true, movialEnabled: false, isWfcEnalbefalse
+++ 05-17 10:42:08.444  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:42:08.444  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:42:08.445  4100  4100 D ImsManager: [isWfcEnabledByPlatform] htc sense qctEnabled: true, movialEnabled: false, isWfcEnalbefalse
+++ 05-17 10:42:08.542  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:42:08.542  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:42:08.546  4100  4100 D ImsManager: [isWfcEnabledByPlatform] htc sense qctEnabled: true, movialEnabled: false, isWfcEnalbefalse
+++ 05-17 10:42:08.717  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:42:08.717  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:42:08.723  4100  4100 D ImsManager: [isWfcEnabledByPlatform] htc sense qctEnabled: true, movialEnabled: false, isWfcEnalbefalse
+++ 05-17 10:44:43.033  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:44:43.033  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:44:43.050  4100  4100 D ImsManager: [isWfcEnabledByPlatform] htc sense qctEnabled: true, movialEnabled: false, isWfcEnalbefalse
+++ 05-17 10:44:43.051  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:44:43.051  4100  4100 D ImsManager: [getNetworkSwitchProp] NETWORK_SWITCH : 0
+++ 05-17 10:44:43.063  4100  4100 D ImsManager: [isWfcEnabledByPlatform] htc sense qctEnabled: true, movialEnabled: false, isWfcEnalbefalse
