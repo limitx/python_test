@@ -1,0 +1,2 @@
+radio*.txt
+isVolteEnabledByPlatform|isWfcEnabledByPlatform|updateVolteFeatureValue|updateVideoCallFeatureValue|updateWfcFeatureAndProvisionedValues|updateImsServiceConfig|setProvisionedValue|setFeatureValue
